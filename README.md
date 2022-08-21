@@ -1,7 +1,7 @@
 # sorting-visualizer
 Sorting algorithm visualizer
 
-> [Live demo]()
+> [Live demo](https://satishnaidu58.github.io/sorting-visualizer/)
 
 ---
 
